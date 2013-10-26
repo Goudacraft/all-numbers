@@ -1,4 +1,4 @@
-package fr.elie.nombre;
+package fr.Goudacraftnombre;
 
 import javax.swing.JFrame;
 import javax.swing.UIManager;
